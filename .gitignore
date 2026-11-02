@@ -1,0 +1,18 @@
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志
+*.log
+
+# 环境变量
+.env
+.env.*
+
+# 依赖与构建
+node_modules/
+__pycache__/
+*.pyc
+venv/
+.venv/
